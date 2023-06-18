@@ -18,5 +18,5 @@ Technologies Used
 - HTML
 - CSS
 - JavaScript
-- 
+ 
 These languages were used to create an engaging and interactive gaming experience.
